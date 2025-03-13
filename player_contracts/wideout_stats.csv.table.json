@@ -1,0 +1,199 @@
+{
+  "columns": [
+    {
+      "width": 53,
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false
+    },
+    {
+      "field": "Player                  ",
+      "title": "Player                  ",
+      "width": 137,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Age",
+      "title": "Age",
+      "width": 83,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Team",
+      "title": "Team",
+      "width": 93,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Pos",
+      "title": "Pos",
+      "width": 82,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "G ",
+      "title": "G ",
+      "width": 68,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "GS",
+      "title": "GS",
+      "width": 77,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Tgt",
+      "title": "Tgt",
+      "width": 78,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Rec",
+      "title": "Rec",
+      "width": 82,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Yds ",
+      "title": "Yds ",
+      "width": 81,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Y/R ",
+      "title": "Y/R ",
+      "width": 79,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "TD",
+      "title": "TD",
+      "width": 77,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "1D",
+      "title": "1D",
+      "width": 74,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Succ%",
+      "title": "Succ%",
+      "width": 103,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Lng",
+      "title": "Lng",
+      "width": 82,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "R/G",
+      "title": "R/G",
+      "width": 81,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Y/G  ",
+      "title": "Y/G  ",
+      "width": 80,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Ctch%",
+      "title": "Ctch%",
+      "width": 101,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Y/Tgt",
+      "title": "Y/Tgt",
+      "width": 91,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Fmb",
+      "title": "Fmb",
+      "width": 86,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Awards",
+      "title": "Awards",
+      "width": 105,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    }
+  ],
+  "sort": [
+    {
+      "column": "Player                  ",
+      "dir": "asc"
+    }
+  ]
+}

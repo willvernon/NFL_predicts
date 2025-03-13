@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "name": "Player                  ",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Age",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Team",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Pos",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "G ",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "GS",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Tgt",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Rec",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Yds ",
+      "type": "year",
+      "format": "default"
+    },
+    {
+      "name": "Y/R ",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "TD",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "1D",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Succ%",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Lng",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "R/G",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Y/G  ",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Ctch%",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Y/Tgt",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Fmb",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Awards",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
